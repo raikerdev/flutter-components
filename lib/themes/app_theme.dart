@@ -10,6 +10,9 @@ class AppTheme {
       elevation: 0,
     ),
     listTileTheme: const ListTileThemeData(iconColor: primary),
+    textButtonTheme: TextButtonThemeData(
+      style: TextButton.styleFrom(foregroundColor: primary),
+    ),
   );
 
   static final ThemeData darkTheme = ThemeData.dark().copyWith(
