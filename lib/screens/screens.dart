@@ -6,3 +6,4 @@ export 'package:flutter_components/screens/home_screen.dart';
 export 'package:flutter_components/screens/inputs_screen.dart';
 export 'package:flutter_components/screens/listview_01_screen.dart';
 export 'package:flutter_components/screens/listview_02_screen.dart';
+export 'package:flutter_components/screens/slider_screen.dart';
